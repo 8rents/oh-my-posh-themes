@@ -1,2 +1,5 @@
-# oh-my-posh-themes
-My collection of oh my posh themes
+# Oh My Posh Themes
+
+> *My collection of oh my posh themes*
+
+---
